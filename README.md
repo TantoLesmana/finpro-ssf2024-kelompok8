@@ -12,6 +12,4 @@
 - [Acknowledgements](#acknowledgements)
 
 ## Introduction
-Provide a brief overview of the project. Explain its purpose and the problem it aims to solve.
-
-**Example:**
+Introduction
