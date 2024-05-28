@@ -62,12 +62,15 @@ Selain itu kode ini akan menampilkan tingkatan tersebut kedalam 3 LED yang akan 
 ## Hasil Pengujian dan Evaluasi Kinerja
 ### Hasil Pengujian
 Peringatan threshold pertama:
+
 ![alt text](https://cdn.discordapp.com/attachments/402016959727665172/1245044529313353778/image.png?ex=66575193&is=66560013&hm=b6b458ec27e3cd9d81ad1073b77a02941a9d3440898507c7a94824be5124496a&)
 
 Peringatan threshold kedua:
+
 ![alt text](https://cdn.discordapp.com/attachments/402016959727665172/1245044610745765949/image.png?ex=665751a7&is=66560027&hm=e5a282cba480df1101631a862f490259d1877d385b95374b372e27faa6205381&)
 
 Peringatan threshold ketiga:
+
 ![alt text](https://cdn.discordapp.com/attachments/402016959727665172/1245044754169729084/image.png?ex=665751c9&is=66560049&hm=b749ac33a0acac67c0d06cc7dfb3e000aaeef026355f61d5c1815f321ce2b6d5&)
 
 ### Evaluasi
