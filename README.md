@@ -38,7 +38,7 @@ Adapun peralatan yang digunakan adalah sebagai berikut:
 
 ![alt text](https://cdn.discordapp.com/attachments/402016959727665172/1245039422114893994/image.png?ex=66574cd1&is=6655fb51&hm=dc610270360d049bef32660a96f448c0d56fb1524eb6aad638adeba7c03ca921&)
 
-Desain rangkaian kami dibuat dengan menggunakan aplikasi Proteus. Rangkaian dibuat sedemikian rupa dengan menggunakan dua arduino dengan mengimplementasikan modul I2C untuk menjalankan penampilan hasil pembacaan dan pendeteksian sensor terpisah dari peringatan LED dan buzzer. Buzzer dirangkai dengan konfigurasi sedemikian rupa agar dapat menyala. Setiap LED dilengkapi oleh resistor untuk membatasi tegangan yang lewat pada masing-masing LED.
+Desain rangkaian kami dibuat dengan menggunakan aplikasi Proteus. Rangkaian dibuat sedemikian rupa dengan menggunakan sebuah arduino dengan mengimplementasikan modul I2C untuk menjalankan penampilan hasil pembacaan dan pendeteksian sensor terpisah dari peringatan LED dan buzzer. Buzzer dirangkai dengan konfigurasi sedemikian rupa agar dapat menyala. Setiap LED dilengkapi oleh resistor untuk membatasi tegangan yang lewat pada masing-masing LED.
 
 ![alt text](https://cdn.discordapp.com/attachments/402016959727665172/1245041837056593990/image.png?ex=66574f11&is=6655fd91&hm=99ff15a915b1c4b9b9f92681d10ab36a47dcbab25c8c2941b4443f15a8826fa6&)
 
